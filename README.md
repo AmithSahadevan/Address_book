@@ -2,7 +2,7 @@
 
 ## About
 This is a small little address book which you can use for storing your contacts.                            
-Well, you can use it more for learning tkinter,
+Well, you can use it more for learning tkinter.
 
 ## How to use.
 #There are a number of entries in this app.                               
